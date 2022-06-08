@@ -21,7 +21,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <BrowserRouter>
         <Routes>
-            <Route path='/dianapigm/' element={<Home />}></Route>
+            <Route path='/pigdiana/' element={<Home />}></Route>
             <Route path='/' element={<Home />}></Route>
             <Route path='/home' element={<Home />}></Route>
             <Route path='/talleres' element={<Talleres />}></Route>
