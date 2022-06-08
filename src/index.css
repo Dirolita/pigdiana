@@ -30,10 +30,6 @@ code {
   justify-content: space-evenly;
   background-color: #F9D544;
 }
-.error h1{
-  font-weight: 800;
-  font-size: 50px;
-}
 
 .error-txt{
   margin: auto;

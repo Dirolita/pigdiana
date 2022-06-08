@@ -170,12 +170,12 @@ font-size: 20px;
         display: block;
     }
     .p-titulo h1{
-        font-size: 35px !important ;
+        font-size: 28px !important ;
     }
     .p-titulo h3{
         color: var(--cafeoscuro-color);
         font-size: 25px !important;
     }
     .p-card{
-        width: 25em;}
+        width: 23em;}
 }
