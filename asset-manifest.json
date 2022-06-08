@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dianapigm/static/css/main.8b9591c7.css",
+    "main.js": "/dianapigm/static/js/main.34885071.js",
+    "static/media/pinturas1.jpg": "/dianapigm/static/media/pinturas1.f86fde5d2df075428487.jpg",
+    "static/media/espatulas productos.jpg": "/dianapigm/static/media/espatulas productos.a8ef696d65e78d968337.jpg",
+    "static/media/pinceles.jpg": "/dianapigm/static/media/pinceles.09efd68430ac453fb80e.jpg",
+    "static/media/talleresimgnes.png": "/dianapigm/static/media/talleresimgnes.e562b67b50ee2f47078c.png",
+    "static/media/banerespatulas.png": "/dianapigm/static/media/banerespatulas.9cc1cfdf681af9f2575f.png",
+    "static/media/baner1.png": "/dianapigm/static/media/baner1.fc92099cfaa6690ff7e3.png",
+    "static/media/baner3.png": "/dianapigm/static/media/baner3.6255eb401c71659fc9ed.png",
+    "static/media/baner4.png": "/dianapigm/static/media/baner4.62cbec73728ff350ab7d.png",
+    "static/media/banerpinturas2.png": "/dianapigm/static/media/banerpinturas2.24b4159758cdd8f198b3.png",
+    "static/media/banerlienzos.png": "/dianapigm/static/media/banerlienzos.6cb6310e63386118530f.png",
+    "static/media/Frame 2.png": "/dianapigm/static/media/Frame 2.4f03bd9dbe7fa4fc8967.png",
+    "static/media/indexgaleria1.png": "/dianapigm/static/media/indexgaleria1.3f8b7fe0002c4e0c849a.png",
+    "static/media/indexproductos2.png": "/dianapigm/static/media/indexproductos2.0ad80e35dbdbb1a68009.png",
+    "static/media/baner2.png": "/dianapigm/static/media/baner2.5bc86755738021e2627a.png",
+    "static/media/indexproductos3.png": "/dianapigm/static/media/indexproductos3.c2832823ac387c929cad.png",
+    "static/media/indextalleres2.png": "/dianapigm/static/media/indextalleres2.c0f44f96e0127364a312.png",
+    "static/media/indexproductos1.png": "/dianapigm/static/media/indexproductos1.38aaea9e279fba19ee40.png",
+    "static/media/indexgaleria2.png": "/dianapigm/static/media/indexgaleria2.d68030c36ae3c5a8f519.png",
+    "static/media/indextarlleres1.png": "/dianapigm/static/media/indextarlleres1.2f37205ef0cccad18b57.png",
+    "static/media/indexgaleria3.png": "/dianapigm/static/media/indexgaleria3.b257c6b70c8251c908eb.png",
+    "static/media/lienzo2.jpg": "/dianapigm/static/media/lienzo2.40a30cea7304c44f8080.jpg",
+    "static/media/1f58c.png": "/dianapigm/static/media/1f58c.d88f53f07e1ad898afcd.png",
+    "static/media/check.ico": "/dianapigm/static/media/check.17bea5b9b588123e8b66.ico",
+    "static/media/error.ico": "/dianapigm/static/media/error.7f680d85de2ad5050960.ico",
+    "index.html": "/dianapigm/index.html",
+    "static/media/bandera.svg": "/dianapigm/static/media/bandera.9aadeec909c87edbefefaa5fb82132e7.svg",
+    "static/media/Line 1.svg": "/dianapigm/static/media/Line 1.f8b31f9c1bcb119fdffc2dc71419f34b.svg",
+    "main.8b9591c7.css.map": "/dianapigm/static/css/main.8b9591c7.css.map",
+    "main.34885071.js.map": "/dianapigm/static/js/main.34885071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b9591c7.css",
+    "static/js/main.34885071.js"
+  ]
+}
