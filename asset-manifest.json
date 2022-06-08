@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pigdiana/static/css/main.d2cda121.css",
+    "main.css": "/pigdiana/static/css/main.74e46c87.css",
     "main.js": "/pigdiana/static/js/main.b9b58617.js",
     "static/media/pinturas1.jpg": "/pigdiana/static/media/pinturas1.f86fde5d2df075428487.jpg",
     "static/media/espatulas productos.jpg": "/pigdiana/static/media/espatulas productos.a8ef696d65e78d968337.jpg",
@@ -29,11 +29,11 @@
     "index.html": "/pigdiana/index.html",
     "static/media/bandera.svg": "/pigdiana/static/media/bandera.9aadeec909c87edbefefaa5fb82132e7.svg",
     "static/media/Line 1.svg": "/pigdiana/static/media/Line 1.f8b31f9c1bcb119fdffc2dc71419f34b.svg",
-    "main.d2cda121.css.map": "/pigdiana/static/css/main.d2cda121.css.map",
+    "main.74e46c87.css.map": "/pigdiana/static/css/main.74e46c87.css.map",
     "main.b9b58617.js.map": "/pigdiana/static/js/main.b9b58617.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2cda121.css",
+    "static/css/main.74e46c87.css",
     "static/js/main.b9b58617.js"
   ]
 }
