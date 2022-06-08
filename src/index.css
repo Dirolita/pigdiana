@@ -32,12 +32,9 @@ code {
 }
 .error h1{
   font-weight: 800;
-  font-size: 80px;
+  font-size: 50px;
 }
-.error h2{
-  color: #301309;
-  font-weight: 600;
-}
+
 .error-txt{
   margin: auto;
 }
