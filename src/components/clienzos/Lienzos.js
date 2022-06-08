@@ -14,7 +14,7 @@ return(
     </div>
     <div class="p-titulo">
         <h1>Lienzos</h1>
-        <h3>"La alta calidad de nuestro productos permitira que tu trabajo sea muy profesional"</h3>
+        <h5>"La alta calidad de nuestro productos permitira que tu trabajo sea muy profesional"</h5>
     </div>
     <section class="p-container">
         {

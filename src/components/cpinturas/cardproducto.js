@@ -9,7 +9,7 @@ return(
   <div>
     <div className="p-card" id={props.p1}>
     <img src={props.p2}/>
-    <h2>{props.p3}</h2>
+    <h4>{props.p3}</h4>
     <p>{props.p4}</p>
     <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target={`#id${props.p1}`}>
   VER
