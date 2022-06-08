@@ -1,13 +1,14 @@
+
 import React from 'react'; 
 import './footer.css';
-import Linea from '../footer/images/Line 1.svg';
-import Bandera from '../footer/images/bandera.svg';
+import Linea from './images/Line 1.svg';
+import Bandera from './images/bandera.svg';
 
 function Footer(){
     return(
 <footer>
         <section class="footer-op">
-            <img src={Linea}/>
+        <img src={Linea}/>
 
             <section id="footer-con-info">
                 <article class="footer-info">

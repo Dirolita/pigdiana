@@ -23,3 +23,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.error{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: #F9D544;
+}
+.error h1{
+  font-weight: 800;
+  font-size: 80px;
+}
+.error h2{
+  color: #301309;
+  font-weight: 600;
+}
+.error-txt{
+  margin: auto;
+}
+.img-error{
+ position: relative;
+ left: 200px;
+ z-index: 1;
+}
