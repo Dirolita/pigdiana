@@ -143,14 +143,17 @@ align-items: center;
     color: var(--cafeoscuro-color);
     text-decoration: none;
 }
-.i-titulo-sec h3{
+.i-titulo-sec h4{
     color: var(--cafeoscuro-color);
+    
 }
 .i-titulo-sec:hover{
     
     background-color:#f9d54463;
 }
-
+.i-titulo-sec a:hover{
+    color: #351804;
+}
 .contenedor{
     width: 100%;
     display: flex;
