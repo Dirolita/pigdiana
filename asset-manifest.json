@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pigdiana/static/css/main.837f68fc.css",
-    "main.js": "/pigdiana/static/js/main.ff56ba62.js",
+    "main.css": "/pigdiana/static/css/main.8a77e4c3.css",
+    "main.js": "/pigdiana/static/js/main.b04fd29e.js",
     "static/media/pinturas1.jpg": "/pigdiana/static/media/pinturas1.f86fde5d2df075428487.jpg",
     "static/media/espatulas productos.jpg": "/pigdiana/static/media/espatulas productos.a8ef696d65e78d968337.jpg",
     "static/media/pinceles.jpg": "/pigdiana/static/media/pinceles.09efd68430ac453fb80e.jpg",
@@ -29,11 +29,11 @@
     "index.html": "/pigdiana/index.html",
     "static/media/bandera.svg": "/pigdiana/static/media/bandera.9aadeec909c87edbefefaa5fb82132e7.svg",
     "static/media/Line 1.svg": "/pigdiana/static/media/Line 1.f8b31f9c1bcb119fdffc2dc71419f34b.svg",
-    "main.837f68fc.css.map": "/pigdiana/static/css/main.837f68fc.css.map",
-    "main.ff56ba62.js.map": "/pigdiana/static/js/main.ff56ba62.js.map"
+    "main.8a77e4c3.css.map": "/pigdiana/static/css/main.8a77e4c3.css.map",
+    "main.b04fd29e.js.map": "/pigdiana/static/js/main.b04fd29e.js.map"
   },
   "entrypoints": [
-    "static/css/main.837f68fc.css",
-    "static/js/main.ff56ba62.js"
+    "static/css/main.8a77e4c3.css",
+    "static/js/main.b04fd29e.js"
   ]
 }
